@@ -1,0 +1,7 @@
+<html>
+  <head>
+  </head>
+  <body style="font-family: 'Roboto', 'Arial', sans-serif;">
+    <%= body %>
+  </body>
+</html>

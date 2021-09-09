@@ -1,0 +1,9 @@
+/_build
+/cover
+/db
+/deps
+/doc
+/*.ez
+erl_crash.dump
+npm-debug.log
+/config/*.secret.exs
